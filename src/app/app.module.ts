@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import { LandingPageComponent } from './app.component';
+import { LandingPageComponent } from './components/landingpage/landingpage.component';
 
 @NgModule({
   declarations: [

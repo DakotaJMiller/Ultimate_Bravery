@@ -1,6 +1,6 @@
 import { TestBed, async } from '@angular/core/testing';
 
-import { LandingPageComponent } from './app.component';
+import { LandingPageComponent } from './landingpage.component';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
