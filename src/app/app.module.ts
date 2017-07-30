@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import { LandingPageComponent } from './components/landingpage/landingpage.component';
+import { LandingPageComponent } from './components/landingpage/landing-page.component';
 
 @NgModule({
   declarations: [
@@ -17,4 +17,6 @@ import { LandingPageComponent } from './components/landingpage/landingpage.compo
   providers: [],
   bootstrap: [LandingPageComponent]
 })
-export class AppModule { }
+export class AppModule { 
+  
+}
