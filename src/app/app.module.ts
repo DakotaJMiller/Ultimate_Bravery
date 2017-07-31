@@ -12,7 +12,7 @@ import { LandingPageComponent } from './components/landingpage/landing-page.comp
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
   ],
   providers: [],
   bootstrap: [LandingPageComponent]
